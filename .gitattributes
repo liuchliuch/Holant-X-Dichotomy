@@ -1,0 +1,9 @@
+* text=auto
+*.bib text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.tex text eol=lf
+
+# These files are hashed byte-for-byte by the A5 verifier.
+certificates/payloads-v1/*.jsonl -text

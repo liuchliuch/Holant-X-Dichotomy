@@ -1,0 +1,53 @@
+{
+  "payloads": {
+    "bridge_vectors.jsonl": {
+      "bytes": 9530,
+      "records": 18,
+      "schema": "a5-cert-v1",
+      "sha256": "26f2a7c828b0575b0f20642c7888e288d5eeaa036e1b1c5b26474c803fca995c"
+    },
+    "deck_points.jsonl": {
+      "bytes": 5386765,
+      "records": 10800,
+      "schema": "a5-cert-v1",
+      "sha256": "ebf688a69dbe894d55d70312abb9efe53aacf82a9f75ac201c4dbd92f00bd4a1"
+    },
+    "domain_lines.jsonl": {
+      "bytes": 8810,
+      "records": 272,
+      "schema": "a5-cert-v1",
+      "sha256": "e5c907b1273a129d2c31c7be6ac9ab4a15bd031466e8286a47ebe4f0f0f688bf"
+    },
+    "frames.jsonl": {
+      "bytes": 1541,
+      "records": 5,
+      "schema": "a5-cert-v1",
+      "sha256": "f727c6111aaf723f86cf252b9147741d46259f9a3a20edca49e9c20e5d2d261f"
+    },
+    "group_points.jsonl": {
+      "bytes": 8167,
+      "records": 60,
+      "schema": "a5-cert-v1",
+      "sha256": "1166781ec55bd65fb5caef4c6340f3e65674d72f452b1c50e63ba502e3c852b4"
+    },
+    "kernel_outputs.jsonl": {
+      "bytes": 28172,
+      "records": 30,
+      "schema": "a5-kernel-outputs-v2",
+      "sha256": "2b8a906ea5eb21db44833a0b444a954d78110aa4f8e4c0b11d2a5e35f20bca0f"
+    },
+    "ordered_triples.jsonl": {
+      "bytes": 1686,
+      "records": 36,
+      "schema": "a5-cert-v1",
+      "sha256": "aa271bcae59dbd7ae68712dcd045cbc023ab9218077d44b9fdcc70b12ad1bf18"
+    },
+    "rich_lines_through_A.jsonl": {
+      "bytes": 3273,
+      "records": 92,
+      "schema": "a5-cert-v1",
+      "sha256": "01cf42ea68dfc1c314855373167f2911bee4c8661a9d387a39dbdc391e93f7fc"
+    }
+  },
+  "schema": "a5-cert-v1"
+}
